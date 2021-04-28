@@ -353,7 +353,6 @@ def draw_tree(tree):
     for sample in range(N):
         pop_change_ID[sample].append(len(x[sample]))
 
-
     plt.figure(figsize=(3, 4))
 
     for sample in range(N):
@@ -369,7 +368,7 @@ def draw_tree(tree):
                 start = end - 1
 
     if tree.T != -1:
-        plt.axhline(y=tree.T, linestyle='--', linewidth=1) # label="o"
+        plt.axhline(y=tree.T, linestyle='--', linewidth=1)
     line = plt.scatter([N / 2], [TMRCA], color="black", label="o", s=5)
 
     plt.xticks([])
@@ -387,5 +386,4 @@ def draw_tree(tree):
         labels.append(str(i + 1) + " pop")
         color_for_legend.append(color_scheme[i])
     plt.legend(handles=handles, labels=labels, labelcolor=color_for_legend)
-    # handles=color_for_legend,
     plt.show()

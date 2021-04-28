@@ -24,6 +24,9 @@ for i in range(args.average_calculating):
     if args.draw_tree:
         fun.draw_tree(tree)
 
+if args.average_calculating == 1:
+    print(tmrca[0])
+
 if args.average_calculating > 1:
     tmrca_average = sum(tmrca) / args.average_calculating
     print(tmrca_average)

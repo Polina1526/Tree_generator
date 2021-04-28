@@ -94,3 +94,5 @@ class Tree:
     def coalescence_rate_in_orig_pop(self, pop_size):
         result = self.__Q * binom(pop_size, 2)
         return result / (2 * self.__N)
+
+    #####################################################

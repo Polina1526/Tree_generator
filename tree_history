@@ -1,12 +1,75 @@
-Migration of 0 from 0 to 1 at 219 dt
-Migration of 1 from 1 to 0 at 448 dt
-Migration of 1 from 0 to 1 at 643 dt
-Migration of 0 from 1 to 0 at 932 dt
-Migration of 0 from 0 to 1 at 1232 dt
-Migration of 0 from 1 to 0 at 1499 dt
-Migration of 1 from 1 to 0 at 1537 dt
-Migration of 1 from 0 to 1 at 1664 dt
-Migration of 0 from 0 to 1 at 2034 dt
-Migration of 0 from 1 to 0 at 2428 dt
-Migration of 1 from 1 to 0 at 3366 dt
-Coalescence in 0 population between 0 and 1; at 3534 dt
+Coalescence in 1 population between 5 and 8; at 16 dt
+Coalescence in 3 population between 12 and 16; at 18 dt
+Migration of 24 from 5 to 3 at 43 dt
+Migration of 20 from 4 to 3 at 63 dt
+Migration of 2 from 0 to 2 at 65 dt
+Coalescence in 3 population between 13 and 18; at 70 dt
+Coalescence in 3 population between 20 and 24; at 99 dt
+Migration of 23 from 5 to 0 at 109 dt
+Migration of 5 from 1 to 5 at 116 dt
+Coalescence in 0 population between 0 and 1; at 122 dt
+Migration of 21 from 4 to 3 at 134 dt
+Coalescence in 2 population between 10 and 11; at 150 dt
+Coalescence in 3 population between 13 and 17; at 154 dt
+Migration of 9 from 2 to 5 at 187 dt
+Coalescence in 0 population between 0 and 3; at 190 dt
+Migration of 23 from 0 to 1 at 203 dt
+Migration of 19 from 4 to 3 at 242 dt
+Migration of 21 from 3 to 5 at 249 dt
+Migration of 19 from 3 to 5 at 283 dt
+Coalescence in 3 population between 13 and 20; at 293 dt
+Migration of 15 from 3 to 2 at 328 dt
+Migration of 22 from 5 to 0 at 374 dt
+Migration of 25 from 5 to 3 at 396 dt
+Migration of 10 from 2 to 5 at 439 dt
+Migration of 22 from 0 to 3 at 471 dt
+Coalescence in 3 population between 12 and 22; at 510 dt
+Migration of 13 from 3 to 4 at 512 dt
+Migration of 25 from 3 to 0 at 619 dt
+Coalescence in 5 population between 19 and 21; at 649 dt
+Migration of 0 from 0 to 4 at 740 dt
+Migration of 0 from 4 to 5 at 797 dt
+Migration of 25 from 0 to 2 at 812 dt
+Migration of 10 from 5 to 1 at 823 dt
+Coalescence in 5 population between 0 and 5; at 861 dt
+Migration of 10 from 1 to 0 at 973 dt
+Coalescence in 1 population between 4 and 7; at 1063 dt
+Migration of 9 from 5 to 3 at 1099 dt
+Migration of 23 from 1 to 3 at 1115 dt
+Migration of 23 from 3 to 2 at 1116 dt
+Migration of 19 from 5 to 0 at 1155 dt
+Migration of 13 from 4 to 2 at 1162 dt
+Migration of 14 from 3 to 4 at 1196 dt
+Migration of 13 from 2 to 1 at 1229 dt
+Migration of 15 from 2 to 1 at 1243 dt
+Migration of 9 from 3 to 4 at 1257 dt
+Migration of 12 from 3 to 5 at 1259 dt
+Migration of 9 from 4 to 1 at 1263 dt
+Coalescence in 1 population between 4 and 15; at 1267 dt
+Coalescence in 2 population between 23 and 25; at 1283 dt
+Migration of 13 from 1 to 3 at 1317 dt
+Migration of 0 from 5 to 3 at 1359 dt
+Coalescence in 0 population between 10 and 19; at 1413 dt
+Coalescence in 2 population between 2 and 23; at 1426 dt
+Migration of 0 from 3 to 0 at 1481 dt
+Migration of 0 from 0 to 3 at 1504 dt
+Migration of 0 from 3 to 1 at 1591 dt
+Migration of 14 from 4 to 1 at 1796 dt
+Migration of 0 from 1 to 2 at 2024 dt
+Migration of 12 from 5 to 1 at 2331 dt
+Migration of 14 from 1 to 0 at 2339 dt
+Migration of 6 from 1 to 5 at 2362 dt
+Migration of 9 from 1 to 0 at 2455 dt
+Migration of 0 from 2 to 5 at 2528 dt
+Coalescence in 1 population between 4 and 12; at 2539 dt
+Migration of 0 from 5 to 3 at 2553 dt
+Migration of 10 from 0 to 2 at 2599 dt
+Coalescence in 0 population between 9 and 14; at 2657 dt
+Coalescence in 3 population between 0 and 13; at 2765 dt
+Migration of 2 from 2 to 0 at 2815 dt
+Coalescence in 0 population between 2 and 9; at 2870 dt
+Migration of 10 from 2 to 1 at 3489 dt
+Coalescence in -1 population between 0 and 2; at 3976 dt
+Coalescence in -1 population between 6 and 10; at 4225 dt
+Coalescence in -1 population between 0 and 4; at 4795 dt
+Coalescence in -1 population between 0 and 6; at 10049 dt
